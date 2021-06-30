@@ -3,6 +3,7 @@
 Hi there, thanks for stopping by, this is **Charles Zhang**.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="<img align='right' src="https://image.pngaaa.com/400/23400-middle.png" width="230">" width="230">
 
 ```dart
 const charles = {
@@ -21,14 +22,7 @@ const charles = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
-</a>
-<a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
-</a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
