@@ -3,9 +3,9 @@
 Hi there, thanks for stopping by, this is **Charles Zhang**.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328px" height="70px" viewBox="0 0 328 70" version="1.1">
-    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
-    <title>logo - pub.dev</title>
+      <title>logo - pub.dev</title>
     <desc>Created with Sketch.</desc>
     <g id="pub.dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="general-ui---icons-and-components" transform="translate(-760.000000, -458.000000)">
