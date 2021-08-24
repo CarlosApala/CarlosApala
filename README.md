@@ -8,21 +8,18 @@ Hi there, thanks for stopping by, this is **Charles Zhang**.
 
 
 
-```
-hola
-```
 
 ```dart
 const charles = {
     
-    askMeAbout: ["web,mobile dev", "tech", "game"],
+    askMeAbout: ["web,mobile dev", "tech", "game"],       
     technologies: {
         lengague:[
-        "dart","C#","javascript","java"
+        "dart","C#","javascript","java"               
         ],
         framework:[
         ".net","flutter","vue"
-        ],
+        ],                                            
         backEnd: ["Java", "net"],
         databases: ["MySql", "mssql"],
     }
