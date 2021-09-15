@@ -1,6 +1,6 @@
-Hi there 👋![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+<h1>Hola soy Jose Carlos 🖐, </h1>
+<h2>✨me gusta la programacion ✨✨✨</h2>
 
-Hi there, thanks for stopping by, this is **jose carlos**.
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 <img align='right' src="https://dart.dev/assets/shared/dart/icon/64.png" width="100">
@@ -28,6 +28,3 @@ const charles = {
 
 
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-
----
