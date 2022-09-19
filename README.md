@@ -18,7 +18,7 @@ const charles = {
         "dart","C#","javascript","java"               
         ],
         framework:[
-        ".net","flutter","vue"
+        ".net","flutter"
         ],                                            
         backEnd: ["Java", "net"],
         databases: ["MySql", "mssql"],
